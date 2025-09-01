@@ -1,0 +1,100 @@
+Hello, I have a data research and formatting task. Your goal is to find canonical release data for various operating systems and format the output as a single, clean JSON array.
+
+Please do not include any explanatory text or markdown formatting outside of the JSON block itself.
+
+**Primary Goal:** For each OS, find the official release data for the primary desktop amd64/x86_64 installation file (.iso, .img, etc.). If the OS has popular "spins" or "flavors," please create separate entries for them.
+
+Here is the JSON template. Please follow it exactly.
+
+### JSON Object Template:
+
+{
+  "os_group": "(String) The main family of the OS. Example: 'Ubuntu', 'Windows', 'FreeBSD'.",
+  "os_family": "(String) The specific name of the distribution or flavor. Example: 'Ubuntu MATE', 'Windows 11 Pro', 'FreeBSD'.",
+  "version": "(String) The version number of the release. Example: '24.04', '11 23H2', '14.1'.",
+  "codename": "(String) The official codename, if any. Use 'N/A' if none. Example: 'Noble Numbat', 'N/A'.",
+  "architecture": "(String) The CPU architecture. Primarily find 'x86_64'.",
+  "file_type": "(String) The file extension. Example: 'iso', 'img'.",
+  "match_hints": [
+    "(Array of Strings) A list of essential keywords from the canonical filename for flexible matching. Example: ['ubuntu', '24.04', 'desktop', 'amd64']"
+  ],
+  "label": "(String) The user-friendly name that will appear in the boot menu. Example: 'Ubuntu 24.04 LTS Desktop'.",
+  "bios_params": {
+    "boot_method": "(String) The boot method. Can be 'linux_iso', 'windows_iso', 'raw_image'.",
+    "grub_config": "(String) The GRUB2 configuration snippet for BIOS boot. Use '{iso_path}' as a placeholder for the file path."
+  },
+  "uefi_params": {
+    "boot_method": "(String) The boot method. Can be 'linux_iso', 'windows_iso', 'raw_image'.",
+    "grub_config": "(String) The GRUB2 configuration snippet for UEFI boot. Use '{iso_path}' as a placeholder for the file path."
+  }
+}
+
+---
+
+### Concrete Examples:
+
+#### Example 1: Linux ISO (Ubuntu 24.04)
+{
+  "os_group": "Ubuntu",
+  "os_family": "Ubuntu",
+  "version": "24.04",
+  "codename": "Noble Numbat",
+  "architecture": "x86_64",
+  "file_type": "iso",
+  "match_hints": ["ubuntu", "24.04", "desktop", "amd64"],
+  "label": "Ubuntu 24.04 LTS Desktop",
+  "bios_params": {
+    "boot_method": "linux_iso",
+    "grub_config": "set isofile=\"{iso_path}\"\\nloopback loop $isofile\\nlinux (loop)/casper/vmlinuz iso-scan/filename=$isofile quiet splash\\ninitrd (loop)/casper/initrd"
+  },
+  "uefi_params": {
+    "boot_method": "linux_iso",
+    "grub_config": "set isofile=\"{iso_path}\"\\nloopback loop $isofile\\nlinux (loop)/casper/vmlinuz iso-scan/filename=$isofile quiet splash\\ninitrd (loop)/casper/initrd"
+  }
+}
+
+#### Example 2: Windows ISO (Windows 11)
+{
+  "os_group": "Windows",
+  "os_family": "Windows 11",
+  "version": "11 23H2",
+  "codename": "N/A",
+  "architecture": "x86_64",
+  "file_type": "iso",
+  "match_hints": ["Win11", "23H2", "English", "x64"],
+  "label": "Windows 11 Installer (23H2)",
+  "bios_params": {
+    "boot_method": "windows_iso",
+    "grub_config": "set isofile=\"{iso_path}\"\\nloopback loop $isofile\\nchainloader (loop)/bootmgr"
+  },
+    "uefi_params": {
+        "boot_method": "wimboot",
+        "grub_config": "set isofile=\"{iso_path}\"\\nloopback loop $isofile\\nlinux16 /wimboot\\ninitrd16 newc:boot/bcd:(loop)/boot/bcd newc:boot/boot.sdi:(loop)/boot/boot.sdi newc:sources/boot.wim:(loop)/sources/boot.wim"
+        }
+}
+
+#### Example 3: BSD Raw Image (FreeBSD 14.1)
+{
+  "os_group": "FreeBSD",
+  "os_family": "FreeBSD",
+  "version": "14.1",
+  "codename": "N/A",
+  "architecture": "x86_64",
+  "file_type": "img",
+  "match_hints": ["FreeBSD", "14.1", "RELEASE", "amd64", "memstick"],
+  "label": "FreeBSD 14.1 Installer",
+  "bios_params": {
+    "boot_method": "raw_image",
+    "grub_config": "linux16 /memdisk raw\\ninitrd16 {iso_path}"
+  },
+  "uefi_params": {
+    "boot_method": "raw_image",
+    "grub_config": "linux16 /memdisk raw\\ninitrd16 {iso_path}"
+  }
+}
+
+---
+
+### Your Task:
+
+Now, please generate a JSON array with entries for all major releases of **[INSERT OS NAME HERE]** from the last 10 years, following the template and examples above.

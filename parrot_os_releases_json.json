@@ -1,0 +1,332 @@
+[
+  {
+    "os_family": "Parrot Security",
+    "version": "3.0",
+    "codename": "Electric Ara",
+    "filename": "Parrot-security-3.0_amd64.iso",
+    "label": "Parrot Security 3.0 'Electric Ara'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2016, Debian-based security distribution with MATE desktop"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "3.1",
+    "codename": "Electric Ara",
+    "filename": "Parrot-security-3.1_amd64.iso",
+    "label": "Parrot Security 3.1 'Electric Ara'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2016, minor update to 3.0 series"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "3.2",
+    "codename": "Electric Ara",
+    "filename": "Parrot-security-3.2_amd64.iso",
+    "label": "Parrot Security 3.2 'Electric Ara'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released late 2016, continued 3.x series improvements"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "3.3",
+    "codename": "Electric Ara",
+    "filename": "Parrot-security-3.3_amd64.iso",
+    "label": "Parrot Security 3.3 'Electric Ara'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released early 2017, security tools updates"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "3.4",
+    "codename": "Electric Ara",
+    "filename": "Parrot-security-3.4_amd64.iso",
+    "label": "Parrot Security 3.4 'Electric Ara'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2017, performance and stability improvements"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "3.5",
+    "codename": "Electric Ara",
+    "filename": "Parrot-security-3.5_amd64.iso",
+    "label": "Parrot Security 3.5 'Electric Ara'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released March 2017, final 3.x series release"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.0",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.0_amd64.iso",
+    "label": "Parrot Security 4.0 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2018, Long Term Support release, major redesign"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.1",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.1_amd64.iso",
+    "label": "Parrot Security 4.1 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2018, LTS series update with bug fixes"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.2",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.2_amd64.iso",
+    "label": "Parrot Security 4.2 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2018, continued LTS improvements"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.3",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.3_amd64.iso",
+    "label": "Parrot Security 4.3 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2019, security tools and kernel updates"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.4",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.4_amd64.iso",
+    "label": "Parrot Security 4.4 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2019, stability and performance improvements"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.5",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.5_amd64.iso",
+    "label": "Parrot Security 4.5 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2019, updated security toolkit"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.6",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.6_amd64.iso",
+    "label": "Parrot Security 4.6 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2019, final 4.x LTS series release"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.7",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.7_amd64.iso",
+    "label": "Parrot Security 4.7 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2020, extended LTS support with updates"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.8",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.8_amd64.iso",
+    "label": "Parrot Security 4.8 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2020, security updates and tool improvements"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.9",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.9_amd64.iso",
+    "label": "Parrot Security 4.9 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2020, continued LTS maintenance"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.10",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.10_amd64.iso",
+    "label": "Parrot Security 4.10 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2020, kernel and security updates"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "4.11",
+    "codename": "LTS",
+    "filename": "Parrot-security-4.11_amd64.iso",
+    "label": "Parrot Security 4.11 LTS",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2021, final 4.x series with LTS support"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "5.0",
+    "codename": "ElectroLux",
+    "filename": "Parrot-security-5.0_amd64.iso",
+    "label": "Parrot Security 5.0 'ElectroLux'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2022, major version upgrade, modern toolkit"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "5.1",
+    "codename": "ElectroLux",
+    "filename": "Parrot-security-5.1_amd64.iso",
+    "label": "Parrot Security 5.1 'ElectroLux'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released September 2022, improvements to 5.0 with updated tools"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "5.2",
+    "codename": "ElectroLux",
+    "filename": "Parrot-security-5.2_amd64.iso",
+    "label": "Parrot Security 5.2 'ElectroLux'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2023, continued 5.x series development"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "5.3",
+    "codename": "ElectroLux",
+    "filename": "Parrot-security-5.3_amd64.iso",
+    "label": "Parrot Security 5.3 'ElectroLux'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2023, security updates and tool enhancements"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "6.0",
+    "codename": "Lory",
+    "filename": "Parrot-security-6.0_amd64.iso",
+    "label": "Parrot Security 6.0 'Lory'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released January 2024, major release with updated Debian base, Linux 6.1 kernel"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "6.1",
+    "codename": "Lory",
+    "filename": "Parrot-security-6.1_amd64.iso",
+    "label": "Parrot Security 6.1 'Lory'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released June 2024, improvements to 6.0 with updated security tools"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "6.2",
+    "codename": "Lory",
+    "filename": "Parrot-security-6.2_amd64.iso",
+    "label": "Parrot Security 6.2 'Lory'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released October 2024, continued 6.x development with bug fixes"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "6.3",
+    "codename": "Lory",
+    "filename": "Parrot-security-6.3_amd64.iso",
+    "label": "Parrot Security 6.3 'Lory'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released January 2025, latest stable release with enhanced security features"
+  },
+  {
+    "os_family": "Parrot Security",
+    "version": "6.4",
+    "codename": "Lory",
+    "filename": "Parrot-security-6.4_amd64.iso",
+    "label": "Parrot Security 6.4 'Lory'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released 2025, current latest release with updated toolkit"
+  },
+  {
+    "os_family": "Parrot Home",
+    "version": "5.1",
+    "codename": "ElectroLux",
+    "filename": "Parrot-home-5.1_amd64.iso",
+    "label": "Parrot Home 5.1 'ElectroLux'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Home edition without security tools, for general desktop use"
+  },
+  {
+    "os_family": "Parrot Home",
+    "version": "6.0",
+    "codename": "Lory",
+    "filename": "Parrot-home-6.0_amd64.iso",
+    "label": "Parrot Home 6.0 'Lory'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Home edition for privacy-focused desktop use, MATE desktop"
+  },
+  {
+    "os_family": "Parrot Home",
+    "version": "6.1",
+    "codename": "Lory",
+    "filename": "Parrot-home-6.1_amd64.iso",
+    "label": "Parrot Home 6.1 'Lory'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Updated home edition with privacy tools and secure browsing"
+  },
+  {
+    "os_family": "Parrot Home",
+    "version": "6.2",
+    "codename": "Lory",
+    "filename": "Parrot-home-6.2_amd64.iso",
+    "label": "Parrot Home 6.2 'Lory'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Continued home edition development with user experience improvements"
+  },
+  {
+    "os_family": "Parrot Architect",
+    "version": "6.0",
+    "codename": "Lory",
+    "filename": "Parrot-architect-6.0_amd64.iso",
+    "label": "Parrot Architect 6.0 'Lory'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Minimal CLI-only installation for advanced users and servers"
+  },
+  {
+    "os_family": "Parrot Architect",
+    "version": "6.1",
+    "codename": "Lory",
+    "filename": "Parrot-architect-6.1_amd64.iso",
+    "label": "Parrot Architect 6.1 'Lory'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Updated minimal installation with latest package repositories"
+  }
+]

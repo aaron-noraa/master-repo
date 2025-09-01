@@ -1,0 +1,372 @@
+[
+  {
+    "os_family": "Arch Linux",
+    "version": "2010.05",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2010.05-core-i686.iso",
+    "label": "Arch Linux 2010.05 Core (i686)",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "May 2010 snapshot, Core installation media"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2010.05",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2010.05-core-x86_64.iso",
+    "label": "Arch Linux 2010.05 Core (x86_64)",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "May 2010 snapshot, Core installation media"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2011.08.19",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2011.08.19-core-i686.iso",
+    "label": "Arch Linux 2011.08.19 Core (i686)",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "August 2011 snapshot, Core installation media"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2011.08.19",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2011.08.19-core-x86_64.iso",
+    "label": "Arch Linux 2011.08.19 Core (x86_64)",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "August 2011 snapshot, Core installation media"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2012.07.15",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2012.07.15-dual.iso",
+    "label": "Arch Linux 2012.07.15 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "July 2012 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2012.12.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2012.12.01-dual.iso",
+    "label": "Arch Linux 2012.12.01 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "December 2012 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2013.05.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2013.05.01-dual.iso",
+    "label": "Arch Linux 2013.05.01 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "May 2013 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2013.10.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2013.10.01-dual.iso",
+    "label": "Arch Linux 2013.10.01 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "October 2013 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2014.02.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2014.02.01-dual.iso",
+    "label": "Arch Linux 2014.02.01 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "February 2014 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2014.07.03",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2014.07.03-dual.iso",
+    "label": "Arch Linux 2014.07.03 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "July 2014 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2014.12.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2014.12.01-dual.iso",
+    "label": "Arch Linux 2014.12.01 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "December 2014 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2015.05.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2015.05.01-dual.iso",
+    "label": "Arch Linux 2015.05.01 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "May 2015 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2015.10.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2015.10.01-dual.iso",
+    "label": "Arch Linux 2015.10.01 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "October 2015 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2016.04.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2016.04.01-dual.iso",
+    "label": "Arch Linux 2016.04.01 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "April 2016 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2016.09.03",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2016.09.03-dual.iso",
+    "label": "Arch Linux 2016.09.03 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "September 2016 snapshot, Dual architecture (i686/x86_64) ISO"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2017.01.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2017.01.01-dual.iso",
+    "label": "Arch Linux 2017.01.01 Dual Architecture",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "January 2017 snapshot, Last dual architecture release with i686 support"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2017.05.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2017.05.01-x86_64.iso",
+    "label": "Arch Linux 2017.05.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "May 2017 snapshot, First x86_64 only release after dropping i686 support"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2017.10.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2017.10.01-x86_64.iso",
+    "label": "Arch Linux 2017.10.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "October 2017 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2018.03.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2018.03.01-x86_64.iso",
+    "label": "Arch Linux 2018.03.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "March 2018 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2018.08.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2018.08.01-x86_64.iso",
+    "label": "Arch Linux 2018.08.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "August 2018 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2019.01.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2019.01.01-x86_64.iso",
+    "label": "Arch Linux 2019.01.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "January 2019 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2019.06.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2019.06.01-x86_64.iso",
+    "label": "Arch Linux 2019.06.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "June 2019 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2019.11.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2019.11.01-x86_64.iso",
+    "label": "Arch Linux 2019.11.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "November 2019 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2020.04.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2020.04.01-x86_64.iso",
+    "label": "Arch Linux 2020.04.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "April 2020 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2020.09.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2020.09.01-x86_64.iso",
+    "label": "Arch Linux 2020.09.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "September 2020 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2021.02.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2021.02.01-x86_64.iso",
+    "label": "Arch Linux 2021.02.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "February 2021 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2021.07.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2021.07.01-x86_64.iso",
+    "label": "Arch Linux 2021.07.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "July 2021 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2021.12.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2021.12.01-x86_64.iso",
+    "label": "Arch Linux 2021.12.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "December 2021 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2022.05.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2022.05.01-x86_64.iso",
+    "label": "Arch Linux 2022.05.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "May 2022 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2022.10.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2022.10.01-x86_64.iso",
+    "label": "Arch Linux 2022.10.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "October 2022 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2023.03.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2023.03.01-x86_64.iso",
+    "label": "Arch Linux 2023.03.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "March 2023 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2023.08.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2023.08.01-x86_64.iso",
+    "label": "Arch Linux 2023.08.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "August 2023 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2024.01.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2024.01.01-x86_64.iso",
+    "label": "Arch Linux 2024.01.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "January 2024 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2024.06.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2024.06.01-x86_64.iso",
+    "label": "Arch Linux 2024.06.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "June 2024 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2024.08.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2024.08.01-x86_64.iso",
+    "label": "Arch Linux 2024.08.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "August 2024 snapshot, x86_64 only, latest available"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2025.01.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2025.01.01-x86_64.iso",
+    "label": "Arch Linux 2025.01.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "January 2025 snapshot, x86_64 only"
+  },
+  {
+    "os_family": "Arch Linux",
+    "version": "2025.08.01",
+    "codename": "Monthly Snapshot",
+    "filename": "archlinux-2025.08.01-x86_64.iso",
+    "label": "Arch Linux 2025.08.01 x86_64",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "August 2025 snapshot, x86_64 only, current release"
+  }
+]

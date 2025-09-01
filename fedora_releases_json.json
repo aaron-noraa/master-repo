@@ -1,0 +1,402 @@
+[
+  {
+    "os_family": "Fedora",
+    "version": "13",
+    "codename": "Goddard",
+    "filename": "Fedora-13-x86_64-Live.iso",
+    "label": "Fedora 13 'Goddard' Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2010, named after Robert H. Goddard, rocket scientist"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "14",
+    "codename": "Laughlin",
+    "filename": "Fedora-14-x86_64-Live.iso",
+    "label": "Fedora 14 'Laughlin' Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2010, named after Robert Laughlin, Nobel Prize physicist"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "15",
+    "codename": "Lovelock",
+    "filename": "Fedora-15-x86_64-Live.iso",
+    "label": "Fedora 15 'Lovelock' Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2011, named after James Lovelock, futurologist"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "16",
+    "codename": "Verne",
+    "filename": "Fedora-16-x86_64-Live.iso",
+    "label": "Fedora 16 'Verne' Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2011, named after Jules Verne, futurologist"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "17",
+    "codename": "Beefy Miracle",
+    "filename": "Fedora-17-x86_64-Live.iso",
+    "label": "Fedora 17 'Beefy Miracle' Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2012, named after Beefy Miracle, something never observed"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "18",
+    "codename": "Spherical Cow",
+    "filename": "Fedora-18-x86_64-Live.iso",
+    "label": "Fedora 18 'Spherical Cow' Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released January 2013, named after Spherical Cow, theoretical thought experiment"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "19",
+    "codename": "Schrödinger's Cat",
+    "filename": "Fedora-19-x86_64-Live.iso",
+    "label": "Fedora 19 'Schrödinger's Cat' Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released July 2013, named after Schrödinger's cat thought experiment"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "20",
+    "codename": "Heisenbug",
+    "filename": "Fedora-20-x86_64-Live.iso",
+    "label": "Fedora 20 'Heisenbug' Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released December 2013, named after Heisenbug, a software bug that disappears when studied"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "21",
+    "codename": "Twenty One",
+    "filename": "Fedora-Workstation-Live-x86_64-21.iso",
+    "label": "Fedora 21 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released December 2014, first release with multiple editions (Workstation, Server, Cloud), no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "22",
+    "codename": "Twenty Two",
+    "filename": "Fedora-Workstation-Live-x86_64-22.iso",
+    "label": "Fedora 22 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2015, continued multiple editions approach, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "23",
+    "codename": "Twenty Three",
+    "filename": "Fedora-Workstation-Live-x86_64-23.iso",
+    "label": "Fedora 23 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2015, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "24",
+    "codename": "Twenty Four",
+    "filename": "Fedora-Workstation-Live-x86_64-24.iso",
+    "label": "Fedora 24 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released June 2016, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "25",
+    "codename": "Twenty Five",
+    "filename": "Fedora-Workstation-Live-x86_64-25.iso",
+    "label": "Fedora 25 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2016, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "26",
+    "codename": "Twenty Six",
+    "filename": "Fedora-Workstation-Live-x86_64-26.iso",
+    "label": "Fedora 26 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released July 2017, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "27",
+    "codename": "Twenty Seven",
+    "filename": "Fedora-Workstation-Live-x86_64-27.iso",
+    "label": "Fedora 27 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2017, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "28",
+    "codename": "Twenty Eight",
+    "filename": "Fedora-Workstation-Live-x86_64-28.iso",
+    "label": "Fedora 28 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2018, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "29",
+    "codename": "Twenty Nine",
+    "filename": "Fedora-Workstation-Live-x86_64-29.iso",
+    "label": "Fedora 29 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released October 2018, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "30",
+    "codename": "Thirty",
+    "filename": "Fedora-Workstation-Live-x86_64-30.iso",
+    "label": "Fedora 30 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2019, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "31",
+    "codename": "Thirty One",
+    "filename": "Fedora-Workstation-Live-x86_64-31.iso",
+    "label": "Fedora 31 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released October 2019, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "32",
+    "codename": "Thirty Two",
+    "filename": "Fedora-Workstation-Live-x86_64-32.iso",
+    "label": "Fedora 32 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2020, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "33",
+    "codename": "Thirty Three",
+    "filename": "Fedora-Workstation-Live-x86_64-33.iso",
+    "label": "Fedora 33 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released October 2020, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "34",
+    "codename": "Thirty Four",
+    "filename": "Fedora-Workstation-Live-x86_64-34.iso",
+    "label": "Fedora 34 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2021, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "35",
+    "codename": "Thirty Five",
+    "filename": "Fedora-Workstation-Live-x86_64-35.iso",
+    "label": "Fedora 35 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2021, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "36",
+    "codename": "Thirty Six",
+    "filename": "Fedora-Workstation-Live-x86_64-36.iso",
+    "label": "Fedora 36 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2022, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "37",
+    "codename": "Thirty Seven",
+    "filename": "Fedora-Workstation-Live-x86_64-37.iso",
+    "label": "Fedora 37 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2022, expanded to five editions (Workstation, Server, Cloud, Container, IoT), no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "38",
+    "codename": "Thirty Eight",
+    "filename": "Fedora-Workstation-Live-x86_64-38.iso",
+    "label": "Fedora 38 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2023, reached end of life May 2024, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "39",
+    "codename": "Thirty Nine",
+    "filename": "Fedora-Workstation-Live-x86_64-39.iso",
+    "label": "Fedora 39 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released October 2023, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "40",
+    "codename": "Forty",
+    "filename": "Fedora-Workstation-Live-x86_64-40.iso",
+    "label": "Fedora 40 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2024, no codename"
+  },
+  {
+    "os_family": "Fedora",
+    "version": "41",
+    "codename": "Forty One",
+    "filename": "Fedora-Workstation-Live-x86_64-41.iso",
+    "label": "Fedora 41 Workstation Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released October 2024, no codename"
+  },
+  {
+    "os_family": "Fedora Server",
+    "version": "21",
+    "codename": "Twenty One",
+    "filename": "Fedora-Server-DVD-x86_64-21.iso",
+    "label": "Fedora 21 Server DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Server edition introduced with Fedora 21, no codename"
+  },
+  {
+    "os_family": "Fedora Server",
+    "version": "22",
+    "codename": "Twenty Two",
+    "filename": "Fedora-Server-DVD-x86_64-22.iso",
+    "label": "Fedora 22 Server DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Server edition, no codename"
+  },
+  {
+    "os_family": "Fedora Server",
+    "version": "23",
+    "codename": "Twenty Three",
+    "filename": "Fedora-Server-DVD-x86_64-23.iso",
+    "label": "Fedora 23 Server DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Server edition, no codename"
+  },
+  {
+    "os_family": "Fedora Server",
+    "version": "24",
+    "codename": "Twenty Four",
+    "filename": "Fedora-Server-DVD-x86_64-24.iso",
+    "label": "Fedora 24 Server DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Server edition, no codename"
+  },
+  {
+    "os_family": "Fedora Server",
+    "version": "40",
+    "codename": "Forty",
+    "filename": "Fedora-Server-DVD-x86_64-40.iso",
+    "label": "Fedora 40 Server DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Server edition, no codename"
+  },
+  {
+    "os_family": "Fedora Server",
+    "version": "41",
+    "codename": "Forty One",
+    "filename": "Fedora-Server-DVD-x86_64-41.iso",
+    "label": "Fedora 41 Server DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Server edition, no codename"
+  },
+  {
+    "os_family": "Fedora Spins",
+    "version": "40",
+    "codename": "KDE Plasma Desktop",
+    "filename": "Fedora-KDE-Live-x86_64-40.iso",
+    "label": "Fedora 40 KDE Plasma Desktop Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Fedora Spin with KDE Plasma desktop environment"
+  },
+  {
+    "os_family": "Fedora Spins",
+    "version": "40",
+    "codename": "Xfce Desktop",
+    "filename": "Fedora-Xfce-Live-x86_64-40.iso",
+    "label": "Fedora 40 Xfce Desktop Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Fedora Spin with Xfce desktop environment"
+  },
+  {
+    "os_family": "Fedora Spins",
+    "version": "40",
+    "codename": "LXQt Desktop",
+    "filename": "Fedora-LXQt-Live-x86_64-40.iso",
+    "label": "Fedora 40 LXQt Desktop Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Fedora Spin with LXQt desktop environment"
+  },
+  {
+    "os_family": "Fedora Spins",
+    "version": "40",
+    "codename": "MATE-Compiz Desktop",
+    "filename": "Fedora-MATE_Compiz-Live-x86_64-40.iso",
+    "label": "Fedora 40 MATE-Compiz Desktop Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Fedora Spin with MATE desktop and Compiz effects"
+  },
+  {
+    "os_family": "Fedora Spins",
+    "version": "40",
+    "codename": "Cinnamon Desktop",
+    "filename": "Fedora-Cinnamon-Live-x86_64-40.iso",
+    "label": "Fedora 40 Cinnamon Desktop Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Fedora Spin with Cinnamon desktop environment"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "os_family": "Ubuntu",
+    "version": "10.04",
+    "codename": "Lucid Lynx",
+    "filename": "ubuntu-10.04.4-desktop-amd64.iso",
+    "label": "Ubuntu 10.04 LTS 'Lucid Lynx' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2010, final point release was 10.04.4, LTS with GNOME 2"
+  },
+  {
+    "os_family": "Ubuntu",
+    "version": "12.04",
+    "codename": "Precise Pangolin",
+    "filename": "ubuntu-12.04.5-desktop-amd64.iso",
+    "label": "Ubuntu 12.04 LTS 'Precise Pangolin' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2012, final point release was 12.04.5, LTS with Unity desktop"
+  },
+  {
+    "os_family": "Ubuntu",
+    "version": "14.04",
+    "codename": "Trusty Tahr",
+    "filename": "ubuntu-14.04.6-desktop-amd64.iso",
+    "label": "Ubuntu 14.04 LTS 'Trusty Tahr' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2014, final point release was 14.04.6, LTS with Unity desktop"
+  },
+  {
+    "os_family": "Ubuntu",
+    "version": "16.04",
+    "codename": "Xenial Xerus",
+    "filename": "ubuntu-16.04.7-desktop-amd64.iso",
+    "label": "Ubuntu 16.04 LTS 'Xenial Xerus' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2016, final point release was 16.04.7, LTS with Unity desktop"
+  },
+  {
+    "os_family": "Ubuntu",
+    "version": "18.04",
+    "codename": "Bionic Beaver",
+    "filename": "ubuntu-18.04.6-desktop-amd64.iso",
+    "label": "Ubuntu 18.04 LTS 'Bionic Beaver' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2018, final point release was 18.04.6, LTS with GNOME 3"
+  },
+  {
+    "os_family": "Ubuntu",
+    "version": "20.04",
+    "codename": "Focal Fossa",
+    "filename": "ubuntu-20.04.6-desktop-amd64.iso",
+    "label": "Ubuntu 20.04 LTS 'Focal Fossa' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2020, final point release was 20.04.6, LTS with GNOME 3"
+  },
+  {
+    "os_family": "Ubuntu",
+    "version": "22.04",
+    "codename": "Jammy Jellyfish",
+    "filename": "ubuntu-22.04.5-desktop-amd64.iso",
+    "label": "Ubuntu 22.04 LTS 'Jammy Jellyfish' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2022, latest point release is 22.04.5, LTS with GNOME 42"
+  },
+  {
+    "os_family": "Ubuntu",
+    "version": "24.04",
+    "codename": "Noble Numbat",
+    "filename": "ubuntu-24.04.1-desktop-amd64.iso",
+    "label": "Ubuntu 24.04 LTS 'Noble Numbat' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2024, latest LTS with GNOME 46"
+  },
+  {
+    "os_family": "Kubuntu",
+    "version": "14.04",
+    "codename": "Trusty Tahr",
+    "filename": "kubuntu-14.04.6-desktop-amd64.iso",
+    "label": "Kubuntu 14.04 LTS 'Trusty Tahr' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with KDE desktop environment"
+  },
+  {
+    "os_family": "Kubuntu",
+    "version": "16.04",
+    "codename": "Xenial Xerus",
+    "filename": "kubuntu-16.04.7-desktop-amd64.iso",
+    "label": "Kubuntu 16.04 LTS 'Xenial Xerus' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with KDE Plasma desktop environment"
+  },
+  {
+    "os_family": "Kubuntu",
+    "version": "18.04",
+    "codename": "Bionic Beaver",
+    "filename": "kubuntu-18.04.6-desktop-amd64.iso",
+    "label": "Kubuntu 18.04 LTS 'Bionic Beaver' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with KDE Plasma 5 desktop environment"
+  },
+  {
+    "os_family": "Kubuntu",
+    "version": "20.04",
+    "codename": "Focal Fossa",
+    "filename": "kubuntu-20.04.6-desktop-amd64.iso",
+    "label": "Kubuntu 20.04 LTS 'Focal Fossa' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with KDE Plasma 5.18 desktop environment"
+  },
+  {
+    "os_family": "Kubuntu",
+    "version": "22.04",
+    "codename": "Jammy Jellyfish",
+    "filename": "kubuntu-22.04.5-desktop-amd64.iso",
+    "label": "Kubuntu 22.04 LTS 'Jammy Jellyfish' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with KDE Plasma 5.24 desktop environment"
+  },
+  {
+    "os_family": "Kubuntu",
+    "version": "24.04",
+    "codename": "Noble Numbat",
+    "filename": "kubuntu-24.04.1-desktop-amd64.iso",
+    "label": "Kubuntu 24.04 LTS 'Noble Numbat' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with KDE Plasma 5.27 desktop environment"
+  },
+  {
+    "os_family": "Xubuntu",
+    "version": "14.04",
+    "codename": "Trusty Tahr",
+    "filename": "xubuntu-14.04.6-desktop-amd64.iso",
+    "label": "Xubuntu 14.04 LTS 'Trusty Tahr' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with Xfce desktop environment"
+  },
+  {
+    "os_family": "Xubuntu",
+    "version": "16.04",
+    "codename": "Xenial Xerus",
+    "filename": "xubuntu-16.04.7-desktop-amd64.iso",
+    "label": "Xubuntu 16.04 LTS 'Xenial Xerus' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with Xfce 4.12 desktop environment"
+  },
+  {
+    "os_family": "Xubuntu",
+    "version": "18.04",
+    "codename": "Bionic Beaver",
+    "filename": "xubuntu-18.04.6-desktop-amd64.iso",
+    "label": "Xubuntu 18.04 LTS 'Bionic Beaver' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with Xfce 4.12 desktop environment"
+  },
+  {
+    "os_family": "Xubuntu",
+    "version": "20.04",
+    "codename": "Focal Fossa",
+    "filename": "xubuntu-20.04.6-desktop-amd64.iso",
+    "label": "Xubuntu 20.04 LTS 'Focal Fossa' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with Xfce 4.14 desktop environment"
+  },
+  {
+    "os_family": "Xubuntu",
+    "version": "22.04",
+    "codename": "Jammy Jellyfish",
+    "filename": "xubuntu-22.04.5-desktop-amd64.iso",
+    "label": "Xubuntu 22.04 LTS 'Jammy Jellyfish' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with Xfce 4.16 desktop environment"
+  },
+  {
+    "os_family": "Xubuntu",
+    "version": "24.04",
+    "codename": "Noble Numbat",
+    "filename": "xubuntu-24.04.1-desktop-amd64.iso",
+    "label": "Xubuntu 24.04 LTS 'Noble Numbat' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with Xfce 4.18 desktop environment"
+  },
+  {
+    "os_family": "Lubuntu",
+    "version": "14.04",
+    "codename": "Trusty Tahr",
+    "filename": "lubuntu-14.04.6-desktop-amd64.iso",
+    "label": "Lubuntu 14.04 LTS 'Trusty Tahr' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with LXDE desktop environment, lightweight"
+  },
+  {
+    "os_family": "Lubuntu",
+    "version": "16.04",
+    "codename": "Xenial Xerus",
+    "filename": "lubuntu-16.04.7-desktop-amd64.iso",
+    "label": "Lubuntu 16.04 LTS 'Xenial Xerus' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with LXDE desktop environment, lightweight"
+  },
+  {
+    "os_family": "Lubuntu",
+    "version": "18.04",
+    "codename": "Bionic Beaver",
+    "filename": "lubuntu-18.04.6-desktop-amd64.iso",
+    "label": "Lubuntu 18.04 LTS 'Bionic Beaver' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with LXDE desktop environment, lightweight"
+  },
+  {
+    "os_family": "Lubuntu",
+    "version": "20.04",
+    "codename": "Focal Fossa",
+    "filename": "lubuntu-20.04.6-desktop-amd64.iso",
+    "label": "Lubuntu 20.04 LTS 'Focal Fossa' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with LXQt desktop environment, lightweight"
+  },
+  {
+    "os_family": "Lubuntu",
+    "version": "22.04",
+    "codename": "Jammy Jellyfish",
+    "filename": "lubuntu-22.04.5-desktop-amd64.iso",
+    "label": "Lubuntu 22.04 LTS 'Jammy Jellyfish' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with LXQt 0.17 desktop environment, lightweight"
+  },
+  {
+    "os_family": "Lubuntu",
+    "version": "24.04",
+    "codename": "Noble Numbat",
+    "filename": "lubuntu-24.04.1-desktop-amd64.iso",
+    "label": "Lubuntu 24.04 LTS 'Noble Numbat' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with LXQt 1.4 desktop environment, lightweight"
+  },
+  {
+    "os_family": "Ubuntu MATE",
+    "version": "16.04",
+    "codename": "Xenial Xerus",
+    "filename": "ubuntu-mate-16.04.7-desktop-amd64.iso",
+    "label": "Ubuntu MATE 16.04 LTS 'Xenial Xerus' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with MATE desktop environment, traditional desktop"
+  },
+  {
+    "os_family": "Ubuntu MATE",
+    "version": "18.04",
+    "codename": "Bionic Beaver",
+    "filename": "ubuntu-mate-18.04.6-desktop-amd64.iso",
+    "label": "Ubuntu MATE 18.04 LTS 'Bionic Beaver' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with MATE 1.20 desktop environment, traditional desktop"
+  },
+  {
+    "os_family": "Ubuntu MATE",
+    "version": "20.04",
+    "codename": "Focal Fossa",
+    "filename": "ubuntu-mate-20.04.6-desktop-amd64.iso",
+    "label": "Ubuntu MATE 20.04 LTS 'Focal Fossa' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with MATE 1.24 desktop environment, traditional desktop"
+  },
+  {
+    "os_family": "Ubuntu MATE",
+    "version": "22.04",
+    "codename": "Jammy Jellyfish",
+    "filename": "ubuntu-mate-22.04.5-desktop-amd64.iso",
+    "label": "Ubuntu MATE 22.04 LTS 'Jammy Jellyfish' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with MATE 1.26 desktop environment, traditional desktop"
+  },
+  {
+    "os_family": "Ubuntu MATE",
+    "version": "24.04",
+    "codename": "Noble Numbat",
+    "filename": "ubuntu-mate-24.04.1-desktop-amd64.iso",
+    "label": "Ubuntu MATE 24.04 LTS 'Noble Numbat' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with MATE 1.26 desktop environment, traditional desktop"
+  },
+  {
+    "os_family": "Ubuntu Budgie",
+    "version": "18.04",
+    "codename": "Bionic Beaver",
+    "filename": "ubuntu-budgie-18.04.6-desktop-amd64.iso",
+    "label": "Ubuntu Budgie 18.04 LTS 'Bionic Beaver' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with Budgie desktop environment, modern and elegant"
+  },
+  {
+    "os_family": "Ubuntu Budgie",
+    "version": "20.04",
+    "codename": "Focal Fossa",
+    "filename": "ubuntu-budgie-20.04.6-desktop-amd64.iso",
+    "label": "Ubuntu Budgie 20.04 LTS 'Focal Fossa' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with Budgie 10.5 desktop environment, modern and elegant"
+  },
+  {
+    "os_family": "Ubuntu Budgie",
+    "version": "22.04",
+    "codename": "Jammy Jellyfish",
+    "filename": "ubuntu-budgie-22.04.5-desktop-amd64.iso",
+    "label": "Ubuntu Budgie 22.04 LTS 'Jammy Jellyfish' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with Budgie 10.6 desktop environment, modern and elegant"
+  },
+  {
+    "os_family": "Ubuntu Budgie",
+    "version": "24.04",
+    "codename": "Noble Numbat",
+    "filename": "ubuntu-budgie-24.04.1-desktop-amd64.iso",
+    "label": "Ubuntu Budgie 24.04 LTS 'Noble Numbat' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor with Budgie 10.8 desktop environment, modern and elegant"
+  },
+  {
+    "os_family": "Ubuntu Studio",
+    "version": "16.04",
+    "codename": "Xenial Xerus",
+    "filename": "ubuntustudio-16.04.7-dvd-amd64.iso",
+    "label": "Ubuntu Studio 16.04 LTS 'Xenial Xerus' DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor for content creators with Xfce, audio/video production tools"
+  },
+  {
+    "os_family": "Ubuntu Studio",
+    "version": "18.04",
+    "codename": "Bionic Beaver",
+    "filename": "ubuntustudio-18.04.6-dvd-amd64.iso",
+    "label": "Ubuntu Studio 18.04 LTS 'Bionic Beaver' DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor for content creators with Xfce, audio/video production tools"
+  },
+  {
+    "os_family": "Ubuntu Studio",
+    "version": "20.04",
+    "codename": "Focal Fossa",
+    "filename": "ubuntustudio-20.04.6-dvd-amd64.iso",
+    "label": "Ubuntu Studio 20.04 LTS 'Focal Fossa' DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor for content creators with KDE Plasma, audio/video production tools"
+  },
+  {
+    "os_family": "Ubuntu Studio",
+    "version": "22.04",
+    "codename": "Jammy Jellyfish",
+    "filename": "ubuntustudio-22.04.5-dvd-amd64.iso",
+    "label": "Ubuntu Studio 22.04 LTS 'Jammy Jellyfish' DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor for content creators with KDE Plasma, audio/video production tools"
+  },
+  {
+    "os_family": "Ubuntu Studio",
+    "version": "24.04",
+    "codename": "Noble Numbat",
+    "filename": "ubuntustudio-24.04.1-dvd-amd64.iso",
+    "label": "Ubuntu Studio 24.04 LTS 'Noble Numbat' DVD",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor for content creators with KDE Plasma, audio/video production tools"
+  },
+  {
+    "os_family": "Ubuntu Kylin",
+    "version": "16.04",
+    "codename": "Xenial Xerus",
+    "filename": "ubuntukylin-16.04.7-desktop-amd64.iso",
+    "label": "Ubuntu Kylin 16.04 LTS 'Xenial Xerus' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor designed for Chinese users with UKUI desktop"
+  },
+  {
+    "os_family": "Ubuntu Kylin",
+    "version": "18.04",
+    "codename": "Bionic Beaver",
+    "filename": "ubuntukylin-18.04.6-desktop-amd64.iso",
+    "label": "Ubuntu Kylin 18.04 LTS 'Bionic Beaver' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor designed for Chinese users with UKUI desktop"
+  },
+  {
+    "os_family": "Ubuntu Kylin",
+    "version": "20.04",
+    "codename": "Focal Fossa",
+    "filename": "ubuntukylin-20.04.6-desktop-amd64.iso",
+    "label": "Ubuntu Kylin 20.04 LTS 'Focal Fossa' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor designed for Chinese users with UKUI 3.0 desktop"
+  },
+  {
+    "os_family": "Ubuntu Kylin",
+    "version": "22.04",
+    "codename": "Jammy Jellyfish",
+    "filename": "ubuntukylin-22.04.5-desktop-amd64.iso",
+    "label": "Ubuntu Kylin 22.04 LTS 'Jammy Jellyfish' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor designed for Chinese users with UKUI 3.1 desktop"
+  },
+  {
+    "os_family": "Ubuntu Kylin",
+    "version": "24.04",
+    "codename": "Noble Numbat",
+    "filename": "ubuntukylin-24.04.1-desktop-amd64.iso",
+    "label": "Ubuntu Kylin 24.04 LTS 'Noble Numbat' Desktop",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Ubuntu flavor designed for Chinese users with UKUI 3.2 desktop"
+  }
+]

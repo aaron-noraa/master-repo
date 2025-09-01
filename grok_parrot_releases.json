@@ -1,0 +1,262 @@
+[
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 3.1 Security",
+    "version": "3.1",
+    "codename": "unknown",
+    "flavor": "Security",
+    "filename": "parrot-security-3.1-amd64.iso",
+    "match_hints": ["parrot-3.1", "security", "parrot-security"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 3.1 Home",
+    "version": "3.1",
+    "codename": "unknown",
+    "flavor": "Home",
+    "filename": "parrot-home-3.1-amd64.iso",
+    "match_hints": ["parrot-3.1", "home", "parrot-home"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 4.11 Security",
+    "version": "4.11",
+    "codename": "unknown",
+    "flavor": "Security",
+    "filename": "parrot-security-4.11-amd64.iso",
+    "match_hints": ["parrot-4.11", "security", "parrot-security"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 4.11 Home",
+    "version": "4.11",
+    "codename": "unknown",
+    "flavor": "Home",
+    "filename": "parrot-home-4.11-amd64.iso",
+    "match_hints": ["parrot-4.11", "home", "parrot-home"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 4.11 Architect",
+    "version": "4.11",
+    "codename": "unknown",
+    "flavor": "Architect",
+    "filename": "parrot-architect-4.11-amd64.iso",
+    "match_hints": ["parrot-4.11", "architect", "parrot-architect"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 5.0 Security (Electro Ara)",
+    "version": "5.0",
+    "codename": "electro-ara",
+    "flavor": "Security",
+    "filename": "parrot-security-5.0-amd64.iso",
+    "match_hints": ["parrot-5.0", "security", "electro-ara", "parrot-security"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 5.0 Home (Electro Ara)",
+    "version": "5.0",
+    "codename": "electro-ara",
+    "flavor": "Home",
+    "filename": "parrot-home-5.0-amd64.iso",
+    "match_hints": ["parrot-5.0", "home", "electro-ara", "parrot-home"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 5.0 Architect (Electro Ara)",
+    "version": "5.0",
+    "codename": "electro-ara",
+    "flavor": "Architect",
+    "filename": "parrot-architect-5.0-amd64.iso",
+    "match_hints": ["parrot-5.0", "architect", "electro-ara", "parrot-architect"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 5.0 IoT (Electro Ara)",
+    "version": "5.0",
+    "codename": "electro-ara",
+    "flavor": "IoT",
+    "filename": "parrot-iot-5.0-arm64.img",
+    "match_hints": ["parrot-5.0", "iot", "electro-ara", "parrot-iot", "arm64"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 5.1 Security",
+    "version": "5.1",
+    "codename": "unknown",
+    "flavor": "Security",
+    "filename": "parrot-security-5.1-amd64.iso",
+    "match_hints": ["parrot-5.1", "security", "parrot-security"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 5.1 Home",
+    "version": "5.1",
+    "codename": "unknown",
+    "flavor": "Home",
+    "filename": "parrot-home-5.1-amd64.iso",
+    "match_hints": ["parrot-5.1", "home", "parrot-home"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 5.2 Security",
+    "version": "5.2",
+    "codename": "unknown",
+    "flavor": "Security",
+    "filename": "parrot-security-5.2-amd64.iso",
+    "match_hints": ["parrot-5.2", "security", "parrot-security"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 5.2 Home",
+    "version": "5.2",
+    "codename": "unknown",
+    "flavor": "Home",
+    "filename": "parrot-home-5.2-amd64.iso",
+    "match_hints": ["parrot-5.2", "home", "parrot-home"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.0 Security",
+    "version": "6.0",
+    "codename": "unknown",
+    "flavor": "Security",
+    "filename": "parrot-security-6.0-amd64.iso",
+    "match_hints": ["parrot-6.0", "security", "parrot-security"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.0 Home",
+    "version": "6.0",
+    "codename": "unknown",
+    "flavor": "Home",
+    "filename": "parrot-home-6.0-amd64.iso",
+    "match_hints": ["parrot-6.0", "home", "parrot-home"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.0 Architect",
+    "version": "6.0",
+    "codename": "unknown",
+    "flavor": "Architect",
+    "filename": "parrot-architect-6.0-amd64.iso",
+    "match_hints": ["parrot-6.0", "architect", "parrot-architect"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.0 IoT",
+    "version": "6.0",
+    "codename": "unknown",
+    "flavor": "IoT",
+    "filename": "parrot-iot-6.0-arm64.img",
+    "match_hints": ["parrot-6.0", "iot", "parrot-iot", "arm64"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.1 Security",
+    "version": "6.1",
+    "codename": "unknown",
+    "flavor": "Security",
+    "filename": "parrot-security-6.1-amd64.iso",
+    "match_hints": ["parrot-6.1", "security", "parrot-security"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.1 Home",
+    "version": "6.1",
+    "codename": "unknown",
+    "flavor": "Home",
+    "filename": "parrot-home-6.1-amd64.iso",
+    "match_hints": ["parrot-6.1", "home", "parrot-home"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.2 Security",
+    "version": "6.2",
+    "codename": "unknown",
+    "flavor": "Security",
+    "filename": "parrot-security-6.2-amd64.iso",
+    "match_hints": ["parrot-6.2", "security", "parrot-security"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.2 Home",
+    "version": "6.2",
+    "codename": "unknown",
+    "flavor": "Home",
+    "filename": "parrot-home-6.2-amd64.iso",
+    "match_hints": ["parrot-6.2", "home", "parrot-home"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.3 Security",
+    "version": "6.3",
+    "codename": "unknown",
+    "flavor": "Security",
+    "filename": "parrot-security-6.3-amd64.iso",
+    "match_hints": ["parrot-6.3", "security", "parrot-security"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.3 Home",
+    "version": "6.3",
+    "codename": "unknown",
+    "flavor": "Home",
+    "filename": "parrot-home-6.3-amd64.iso",
+    "match_hints": ["parrot-6.3", "home", "parrot-home"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.4 Security",
+    "version": "6.4",
+    "codename": "unknown",
+    "flavor": "Security",
+    "filename": "parrot-security-6.4-amd64.iso",
+    "match_hints": ["parrot-6.4", "security", "parrot-security"],
+    "boot_params": "auto=true priority=critical vga=788"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.4 Home",
+    "version": "6.4",
+    "codename": "unknown",
+    "flavor": "Home",
+    "filename": "parrot-home-6.4-amd64.iso",
+    "match_hints": ["parrot-6.4", "home", "parrot-home"],
+    "boot_params": "boot=live components quiet splash"
+  },
+  {
+    "uuid": "auto-generated",
+    "label": "Parrot OS 6.4 IoT",
+    "version": "6.4",
+    "codename": "unknown",
+    "flavor": "IoT",
+    "filename": "parrot-iot-6.4-arm64.img",
+    "match_hints": ["parrot-6.4", "iot", "parrot-iot", "arm64"],
+    "boot_params": "boot=live components quiet splash"
+  }
+]

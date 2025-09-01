@@ -1,0 +1,512 @@
+[
+  {
+    "os_family": "Debian",
+    "version": "6",
+    "codename": "Squeeze",
+    "filename": "debian-6.0.10-amd64-netinst.iso",
+    "label": "Debian 6 'Squeeze' Net-Installer",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released February 2011, final point release was 6.0.10"
+  },
+  {
+    "os_family": "Debian",
+    "version": "6",
+    "codename": "Squeeze",
+    "filename": "debian-live-6.0.10-amd64-gnome-desktop.iso",
+    "label": "Debian 6 'Squeeze' Live GNOME",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with GNOME desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "6",
+    "codename": "Squeeze",
+    "filename": "debian-live-6.0.10-amd64-kde-desktop.iso",
+    "label": "Debian 6 'Squeeze' Live KDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with KDE desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "6",
+    "codename": "Squeeze",
+    "filename": "debian-live-6.0.10-amd64-xfce-desktop.iso",
+    "label": "Debian 6 'Squeeze' Live Xfce",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Xfce desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "7",
+    "codename": "Wheezy",
+    "filename": "debian-7.11.0-amd64-netinst.iso",
+    "label": "Debian 7 'Wheezy' Net-Installer",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2013, final point release was 7.11"
+  },
+  {
+    "os_family": "Debian",
+    "version": "7",
+    "codename": "Wheezy",
+    "filename": "debian-live-7.11.0-amd64-gnome-desktop.iso",
+    "label": "Debian 7 'Wheezy' Live GNOME",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with GNOME desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "7",
+    "codename": "Wheezy",
+    "filename": "debian-live-7.11.0-amd64-kde-desktop.iso",
+    "label": "Debian 7 'Wheezy' Live KDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with KDE desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "7",
+    "codename": "Wheezy",
+    "filename": "debian-live-7.11.0-amd64-xfce-desktop.iso",
+    "label": "Debian 7 'Wheezy' Live Xfce",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Xfce desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "8",
+    "codename": "Jessie",
+    "filename": "debian-8.11.1-amd64-netinst.iso",
+    "label": "Debian 8 'Jessie' Net-Installer",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2015, final point release was 8.11"
+  },
+  {
+    "os_family": "Debian",
+    "version": "8",
+    "codename": "Jessie",
+    "filename": "debian-live-8.11.1-amd64-gnome-desktop.iso",
+    "label": "Debian 8 'Jessie' Live GNOME",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with GNOME desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "8",
+    "codename": "Jessie",
+    "filename": "debian-live-8.11.1-amd64-kde-desktop.iso",
+    "label": "Debian 8 'Jessie' Live KDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with KDE desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "8",
+    "codename": "Jessie",
+    "filename": "debian-live-8.11.1-amd64-xfce-desktop.iso",
+    "label": "Debian 8 'Jessie' Live Xfce",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Xfce desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "8",
+    "codename": "Jessie",
+    "filename": "debian-live-8.11.1-amd64-lxde-desktop.iso",
+    "label": "Debian 8 'Jessie' Live LXDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with LXDE desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "9",
+    "codename": "Stretch",
+    "filename": "debian-9.13.0-amd64-netinst.iso",
+    "label": "Debian 9 'Stretch' Net-Installer",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released June 2017, final point release was 9.13"
+  },
+  {
+    "os_family": "Debian",
+    "version": "9",
+    "codename": "Stretch",
+    "filename": "debian-live-9.13.0-amd64-gnome.iso",
+    "label": "Debian 9 'Stretch' Live GNOME",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with GNOME desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "9",
+    "codename": "Stretch",
+    "filename": "debian-live-9.13.0-amd64-kde.iso",
+    "label": "Debian 9 'Stretch' Live KDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with KDE desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "9",
+    "codename": "Stretch",
+    "filename": "debian-live-9.13.0-amd64-xfce.iso",
+    "label": "Debian 9 'Stretch' Live Xfce",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Xfce desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "9",
+    "codename": "Stretch",
+    "filename": "debian-live-9.13.0-amd64-lxde.iso",
+    "label": "Debian 9 'Stretch' Live LXDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with LXDE desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "9",
+    "codename": "Stretch",
+    "filename": "debian-live-9.13.0-amd64-mate.iso",
+    "label": "Debian 9 'Stretch' Live MATE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with MATE desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "9",
+    "codename": "Stretch",
+    "filename": "debian-live-9.13.0-amd64-cinnamon.iso",
+    "label": "Debian 9 'Stretch' Live Cinnamon",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Cinnamon desktop environment"
+  },
+  {
+    "os_family": "Debian",
+    "version": "10",
+    "codename": "Buster",
+    "filename": "debian-10.13.0-amd64-netinst.iso",
+    "label": "Debian 10 'Buster' Net-Installer",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released July 2019, final point release was 10.13"
+  },
+  {
+    "os_family": "Debian",
+    "version": "10",
+    "codename": "Buster",
+    "filename": "debian-live-10.13.0-amd64-gnome.iso",
+    "label": "Debian 10 'Buster' Live GNOME",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with GNOME desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "10",
+    "codename": "Buster",
+    "filename": "debian-live-10.13.0-amd64-kde.iso",
+    "label": "Debian 10 'Buster' Live KDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with KDE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "10",
+    "codename": "Buster",
+    "filename": "debian-live-10.13.0-amd64-xfce.iso",
+    "label": "Debian 10 'Buster' Live Xfce",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Xfce desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "10",
+    "codename": "Buster",
+    "filename": "debian-live-10.13.0-amd64-lxde.iso",
+    "label": "Debian 10 'Buster' Live LXDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with LXDE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "10",
+    "codename": "Buster",
+    "filename": "debian-live-10.13.0-amd64-mate.iso",
+    "label": "Debian 10 'Buster' Live MATE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with MATE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "10",
+    "codename": "Buster",
+    "filename": "debian-live-10.13.0-amd64-cinnamon.iso",
+    "label": "Debian 10 'Buster' Live Cinnamon",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Cinnamon desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "11",
+    "codename": "Bullseye",
+    "filename": "debian-11.11.0-amd64-netinst.iso",
+    "label": "Debian 11 'Bullseye' Net-Installer",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released August 2021, final point release was 11.11"
+  },
+  {
+    "os_family": "Debian",
+    "version": "11",
+    "codename": "Bullseye",
+    "filename": "debian-live-11.11.0-amd64-gnome.iso",
+    "label": "Debian 11 'Bullseye' Live GNOME",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with GNOME desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "11",
+    "codename": "Bullseye",
+    "filename": "debian-live-11.11.0-amd64-kde.iso",
+    "label": "Debian 11 'Bullseye' Live KDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with KDE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "11",
+    "codename": "Bullseye",
+    "filename": "debian-live-11.11.0-amd64-xfce.iso",
+    "label": "Debian 11 'Bullseye' Live Xfce",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Xfce desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "11",
+    "codename": "Bullseye",
+    "filename": "debian-live-11.11.0-amd64-lxde.iso",
+    "label": "Debian 11 'Bullseye' Live LXDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with LXDE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "11",
+    "codename": "Bullseye",
+    "filename": "debian-live-11.11.0-amd64-lxqt.iso",
+    "label": "Debian 11 'Bullseye' Live LXQt",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with LXQt desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "11",
+    "codename": "Bullseye",
+    "filename": "debian-live-11.11.0-amd64-mate.iso",
+    "label": "Debian 11 'Bullseye' Live MATE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with MATE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "11",
+    "codename": "Bullseye",
+    "filename": "debian-live-11.11.0-amd64-cinnamon.iso",
+    "label": "Debian 11 'Bullseye' Live Cinnamon",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Cinnamon desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "12",
+    "codename": "Bookworm",
+    "filename": "debian-12.11.0-amd64-netinst.iso",
+    "label": "Debian 12 'Bookworm' Net-Installer",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released June 2023, latest point release is 12.11"
+  },
+  {
+    "os_family": "Debian",
+    "version": "12",
+    "codename": "Bookworm",
+    "filename": "debian-live-12.11.0-amd64-gnome.iso",
+    "label": "Debian 12 'Bookworm' Live GNOME",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with GNOME desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "12",
+    "codename": "Bookworm",
+    "filename": "debian-live-12.11.0-amd64-kde.iso",
+    "label": "Debian 12 'Bookworm' Live KDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with KDE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "12",
+    "codename": "Bookworm",
+    "filename": "debian-live-12.11.0-amd64-xfce.iso",
+    "label": "Debian 12 'Bookworm' Live Xfce",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Xfce desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "12",
+    "codename": "Bookworm",
+    "filename": "debian-live-12.11.0-amd64-lxde.iso",
+    "label": "Debian 12 'Bookworm' Live LXDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with LXDE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "12",
+    "codename": "Bookworm",
+    "filename": "debian-live-12.11.0-amd64-lxqt.iso",
+    "label": "Debian 12 'Bookworm' Live LXQt",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with LXQt desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "12",
+    "codename": "Bookworm",
+    "filename": "debian-live-12.11.0-amd64-mate.iso",
+    "label": "Debian 12 'Bookworm' Live MATE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with MATE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "12",
+    "codename": "Bookworm",
+    "filename": "debian-live-12.11.0-amd64-cinnamon.iso",
+    "label": "Debian 12 'Bookworm' Live Cinnamon",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Cinnamon desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "13",
+    "codename": "Trixie",
+    "filename": "debian-13.0.0-amd64-netinst.iso",
+    "label": "Debian 13 'Trixie' Net-Installer",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released August 2025, current stable release"
+  },
+  {
+    "os_family": "Debian",
+    "version": "13",
+    "codename": "Trixie",
+    "filename": "debian-live-13.0.0-amd64-gnome.iso",
+    "label": "Debian 13 'Trixie' Live GNOME",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with GNOME desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "13",
+    "codename": "Trixie",
+    "filename": "debian-live-13.0.0-amd64-kde.iso",
+    "label": "Debian 13 'Trixie' Live KDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with KDE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "13",
+    "codename": "Trixie",
+    "filename": "debian-live-13.0.0-amd64-xfce.iso",
+    "label": "Debian 13 'Trixie' Live Xfce",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Xfce desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "13",
+    "codename": "Trixie",
+    "filename": "debian-live-13.0.0-amd64-lxde.iso",
+    "label": "Debian 13 'Trixie' Live LXDE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with LXDE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "13",
+    "codename": "Trixie",
+    "filename": "debian-live-13.0.0-amd64-lxqt.iso",
+    "label": "Debian 13 'Trixie' Live LXQt",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with LXQt desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "13",
+    "codename": "Trixie",
+    "filename": "debian-live-13.0.0-amd64-mate.iso",
+    "label": "Debian 13 'Trixie' Live MATE",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with MATE desktop environment and Calamares installer"
+  },
+  {
+    "os_family": "Debian",
+    "version": "13",
+    "codename": "Trixie",
+    "filename": "debian-live-13.0.0-amd64-cinnamon.iso",
+    "label": "Debian 13 'Trixie' Live Cinnamon",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live image with Cinnamon desktop environment and Calamares installer"
+  }
+]

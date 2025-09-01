@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EchoBoot OS Entry Schema v2",
+  "type": "object",
+  "required": ["label", "version", "flavor", "filename"],
+  "properties": {
+    "label": {
+      "type": "string",
+      "description": "Human-readable title (e.g. 'Debian 12.5 XFCE Live')"
+    },
+    "version": {
+      "type": "string",
+      "description": "Release version or build tag (e.g. '12.5', '23H2')"
+    },
+    "codename": {
+      "type": "string",
+      "description": "Codename of the release (e.g. 'Bookworm', 'Focal')",
+      "default": "unknown"
+    },
+    "flavor": {
+      "type": "string",
+      "description": "Variant/flavor (e.g. 'XFCE', 'Live', 'Enterprise', 'Installer')"
+    },
+    "filename": {
+      "type": "string",
+      "pattern": "\\.(iso|img)$",
+      "description": "Name of the downloadable image file"
+    },
+    "match_hints": {
+      "type": "array",
+      "description": "List of strings used for auto-matching ISO/IMG",
+      "items": {
+        "type": "string"
+      }
+    },
+    "boot_params": {
+      "type": "string",
+      "description": "Boot-time kernel parameters (if needed)"
+    }
+  },
+  "additionalProperties": false
+}

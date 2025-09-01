@@ -1,0 +1,242 @@
+[
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2013.12.01",
+    "codename": "Initial Release",
+    "filename": "blackarch-linux-live-2013.12.01-x86_64.iso",
+    "label": "BlackArch Linux Live Initial",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "First official release - Arch Linux-based penetration testing distribution"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2013.12.01",
+    "codename": "Initial Release",
+    "filename": "blackarch-linux-netinstall-2013.12.01-x86_64.iso",
+    "label": "BlackArch Linux NetInstall Initial",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Minimal network installer for custom installations"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2014.06.15",
+    "codename": "Summer Update",
+    "filename": "blackarch-linux-live-2014.06.15-x86_64.iso",
+    "label": "BlackArch Linux Live Summer 2014",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Mid-2014 release with expanded tool collection and kernel updates"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2014.12.19",
+    "codename": "Winter Update",
+    "filename": "blackarch-linux-live-2014.12.19-x86_64.iso",
+    "label": "BlackArch Linux Live Winter 2014",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "End of year release with over 1000 security tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2015.08.13",
+    "codename": "Blackhat Edition",
+    "filename": "blackarch-linux-live-2015.08.13-x86_64.iso",
+    "label": "BlackArch Linux Live Blackhat 2015",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Special release timed for Black Hat conference with enhanced wireless tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2016.01.10",
+    "codename": "New Year Release",
+    "filename": "blackarch-linux-live-2016.01.10-x86_64.iso",
+    "label": "BlackArch Linux Live 2016 New Year",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "New year release with over 1400 penetration testing tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2016.04.28",
+    "codename": "Spring Update",
+    "filename": "blackarch-linux-live-2016.04.28-x86_64.iso",
+    "label": "BlackArch Linux Live Spring 2016",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Spring 2016 update with improved hardware compatibility"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2016.12.29",
+    "codename": "Year End",
+    "filename": "blackarch-linux-live-2016.12.29-x86_64.iso",
+    "label": "BlackArch Linux Live Year End 2016",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "End of year release with over 1800 security tools and updated kernel"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2017.03.01",
+    "codename": "March Release",
+    "filename": "blackarch-linux-live-2017.03.01-x86_64.iso",
+    "label": "BlackArch Linux Live March 2017",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Early 2017 release with expanded forensics and exploitation tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2017.12.07",
+    "codename": "Winter Release",
+    "filename": "blackarch-linux-live-2017.12.07-x86_64.iso",
+    "label": "BlackArch Linux Live Winter 2017",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Winter 2017 release with over 2000 security tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2018.06.01",
+    "codename": "Summer Release",
+    "filename": "blackarch-linux-live-2018.06.01-x86_64.iso",
+    "label": "BlackArch Linux Live Summer 2018",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Mid-year 2018 release with enhanced web application testing tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2018.12.01",
+    "codename": "December Release",
+    "filename": "blackarch-linux-live-2018.12.01-x86_64.iso",
+    "label": "BlackArch Linux Live December 2018",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "End of year 2018 release with over 2100 penetration testing tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2019.06.01",
+    "codename": "Mid-Year Update",
+    "filename": "blackarch-linux-live-2019.06.01-x86_64.iso",
+    "label": "BlackArch Linux Live Mid-2019",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Mid-2019 release with improved mobile security testing capabilities"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2019.09.01",
+    "codename": "Autumn Release",
+    "filename": "blackarch-linux-live-2019.09.01-x86_64.iso",
+    "label": "BlackArch Linux Live Autumn 2019",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Autumn 2019 release with enhanced malware analysis tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2020.06.01",
+    "codename": "Summer Release",
+    "filename": "blackarch-linux-live-2020.06.01-x86_64.iso",
+    "label": "BlackArch Linux Live Summer 2020",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Summer 2020 release with over 2400 security tools and COVID-themed additions"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2020.12.01",
+    "codename": "Full ISO Rename",
+    "filename": "blackarch-linux-full-2020.12.01-x86_64.iso",
+    "label": "BlackArch Linux Full December 2020",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "December 2020 release - Live ISO renamed to Full ISO, over 2500 tools included"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2020.12.01",
+    "codename": "Full ISO Rename",
+    "filename": "blackarch-linux-slim-2020.12.01-x86_64.iso",
+    "label": "BlackArch Linux Slim December 2020",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "New slim ISO with selected common penetration testing tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2021.09.01",
+    "codename": "Autumn Update",
+    "filename": "blackarch-linux-full-2021.09.01-x86_64.iso",
+    "label": "BlackArch Linux Full Autumn 2021",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Autumn 2021 release with over 2600 security and penetration testing tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2021.09.01",
+    "codename": "Autumn Update",
+    "filename": "blackarch-linux-slim-2021.09.01-x86_64.iso",
+    "label": "BlackArch Linux Slim Autumn 2021",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Slim edition with curated selection of essential pentesting tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2022.08.01",
+    "codename": "Summer Release",
+    "filename": "blackarch-linux-full-2022.08.01-x86_64.iso",
+    "label": "BlackArch Linux Full Summer 2022",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Summer 2022 release with over 2700 tools, enhanced ARM support"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2022.08.01",
+    "codename": "Summer Release",
+    "filename": "blackarch-linux-slim-2022.08.01-x86_64.iso",
+    "label": "BlackArch Linux Slim Summer 2022",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Lightweight edition for focused penetration testing workflows"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2023.04.01",
+    "codename": "Final Release",
+    "filename": "blackarch-linux-full-2023.04.01-x86_64.iso",
+    "label": "BlackArch Linux Full April 2023",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Latest release with over 2800 security tools - last official ISO as project appears dormant"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2023.04.01",
+    "codename": "Final Release",
+    "filename": "blackarch-linux-slim-2023.04.01-x86_64.iso",
+    "label": "BlackArch Linux Slim April 2023",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Slim edition of the final release with selected penetration testing tools"
+  },
+  {
+    "os_family": "BlackArch Linux",
+    "version": "2023.04.01",
+    "codename": "Final Release",
+    "filename": "blackarch-linux-netinstall-2023.04.01-x86_64.iso",
+    "label": "BlackArch Linux NetInstall April 2023",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Minimal network installer for custom BlackArch installations"
+  }
+]

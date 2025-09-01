@@ -1,0 +1,272 @@
+[
+  {
+    "os_family": "Garuda Linux",
+    "version": "200326",
+    "codename": "Initial Release",
+    "filename": "garuda-kde-dragonized-200326.iso",
+    "label": "Garuda Linux KDE Dr460nized Initial",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "First release March 26, 2020 - Gaming-optimized Arch-based distribution"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "200326",
+    "codename": "Initial Release",
+    "filename": "garuda-gnome-200326.iso",
+    "label": "Garuda Linux GNOME Initial",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "GNOME edition of the initial release"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "200421",
+    "codename": "April Update",
+    "filename": "garuda-kde-dragonized-200421.iso",
+    "label": "Garuda Linux KDE Dr460nized April",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "April 2020 update with performance improvements"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "200421",
+    "codename": "April Update",
+    "filename": "garuda-xfce-200421.iso",
+    "label": "Garuda Linux Xfce April",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Xfce edition with lightweight desktop environment"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "200608",
+    "codename": "Shaman",
+    "filename": "garuda-kde-dragonized-gaming-200608.iso",
+    "label": "Garuda Linux Gaming Edition 'Shaman'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "First dedicated gaming edition with pre-installed gaming tools"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "200815",
+    "codename": "Eagle",
+    "filename": "garuda-kde-dragonized-200815.iso",
+    "label": "Garuda Linux KDE Dr460nized 'Eagle'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Major update with enhanced KDE theming and performance optimizations"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "200815",
+    "codename": "Eagle",
+    "filename": "garuda-i3wm-200815.iso",
+    "label": "Garuda Linux i3WM 'Eagle'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "i3 window manager edition for tiling window management"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "201101",
+    "codename": "Hawk",
+    "filename": "garuda-cinnamon-201101.iso",
+    "label": "Garuda Linux Cinnamon 'Hawk'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Cinnamon desktop environment edition"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "210101",
+    "codename": "New Year",
+    "filename": "garuda-qtile-210101.iso",
+    "label": "Garuda Linux Qtile New Year",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Qtile tiling window manager edition"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "210314",
+    "codename": "Soaring",
+    "filename": "garuda-kde-dragonized-gaming-210314.iso",
+    "label": "Garuda Linux Gaming 'Soaring'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Enhanced gaming edition with Lutris, Steam, and gaming optimizations"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "210314",
+    "codename": "Soaring",
+    "filename": "garuda-wayfire-210314.iso",
+    "label": "Garuda Linux Wayfire 'Soaring'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Wayfire Wayland compositor edition"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "210601",
+    "codename": "Falcon",
+    "filename": "garuda-bspwm-210601.iso",
+    "label": "Garuda Linux BSPWM 'Falcon'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Binary Space Partitioning Window Manager edition"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "210717",
+    "codename": "Talon",
+    "filename": "garuda-kde-dragonized-210717.iso",
+    "label": "Garuda Linux KDE Dr460nized 'Talon'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Major KDE update with Plasma 5.22, improved Dr460nized theme"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "210717",
+    "codename": "Talon",
+    "filename": "garuda-sway-210717.iso",
+    "label": "Garuda Linux Sway 'Talon'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Sway Wayland tiling compositor edition"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "211030",
+    "codename": "Phoenix",
+    "filename": "garuda-lxqt-kwin-211030.iso",
+    "label": "Garuda Linux LXQt-Kwin 'Phoenix'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "LXQt with KWin compositor for lightweight yet modern experience"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "220101",
+    "codename": "Raptor",
+    "filename": "garuda-kde-lite-220101.iso",
+    "label": "Garuda Linux KDE Lite 'Raptor'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Lightweight KDE Plasma edition with minimal theming"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "220316",
+    "codename": "Talon",
+    "filename": "garuda-mate-220316.iso",
+    "label": "Garuda Linux MATE 'Talon'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "MATE desktop environment edition for traditional desktop experience"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "220728",
+    "codename": "Talon",
+    "filename": "garuda-kde-dragonized-gaming-220728.iso",
+    "label": "Garuda Linux Gaming 'Talon'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Updated gaming edition with latest gaming tools and drivers"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "221204",
+    "codename": "Spizaetus",
+    "filename": "garuda-kde-dragonized-221204.iso",
+    "label": "Garuda Linux KDE Dr460nized 'Spizaetus'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "December 2022 release with Plasma 5.26 and updated theming"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "230305",
+    "codename": "Harpy Eagle",
+    "filename": "garuda-gnome-230305.iso",
+    "label": "Garuda Linux GNOME 'Harpy Eagle'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "GNOME 43 edition with Garuda customizations"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "230428",
+    "codename": "Steller's",
+    "filename": "garuda-xfce-230428.iso",
+    "label": "Garuda Linux Xfce 'Steller's'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Updated Xfce edition with modern theming"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "230916",
+    "codename": "Crested Serpent Eagle",
+    "filename": "garuda-kde-dragonized-gaming-230916.iso",
+    "label": "Garuda Linux Gaming 'Crested Serpent Eagle'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Autumn 2023 gaming release with enhanced performance optimizations"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "240113",
+    "codename": "Bateleur",
+    "filename": "garuda-kde-dragonized-240113.iso",
+    "label": "Garuda Linux KDE Dr460nized 'Bateleur'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "January 2024 release with Plasma 6 preparations"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "240428",
+    "codename": "Peregrine",
+    "filename": "garuda-kde-dragonized-240428.iso",
+    "label": "Garuda Linux KDE Dr460nized 'Peregrine'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Spring 2024 release with KDE Plasma 6 and updated gaming optimizations"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "240914",
+    "codename": "Kestrel",
+    "filename": "garuda-kde-dragonized-gaming-240914.iso",
+    "label": "Garuda Linux Gaming 'Kestrel'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "September 2024 gaming edition with latest Steam Deck optimizations"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "241221",
+    "codename": "Goshawk",
+    "filename": "garuda-kde-dragonized-241221.iso",
+    "label": "Garuda Linux KDE Dr460nized 'Goshawk'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Winter 2024 release with Plasma 6.2 and enhanced Dr460nized theming"
+  },
+  {
+    "os_family": "Garuda Linux",
+    "version": "250315",
+    "codename": "Buzzard",
+    "filename": "garuda-kde-dragonized-gaming-250315.iso",
+    "label": "Garuda Linux Gaming 'Buzzard'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Latest gaming edition as of March 2025 with advanced gaming tools and AI optimizations"
+  }
+]

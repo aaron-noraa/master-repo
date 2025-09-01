@@ -1,0 +1,552 @@
+[
+  {
+    "os_family": "Kali Linux",
+    "version": "1.0.0",
+    "codename": "Moto",
+    "filename": "kali-linux-1.0.0-amd64.iso",
+    "label": "Kali Linux 1.0.0 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released March 2013, successor to BackTrack 5 R3, first Kali release based on Debian"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "1.0.1",
+    "codename": "Moto",
+    "filename": "kali-linux-1.0.1-amd64.iso",
+    "label": "Kali Linux 1.0.1 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2013, bug fixes and updates to initial release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "1.0.2",
+    "codename": "Moto",
+    "filename": "kali-linux-1.0.2-amd64.iso",
+    "label": "Kali Linux 1.0.2 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2013, continued improvements to 1.0 series"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "1.0.3",
+    "codename": "Moto",
+    "filename": "kali-linux-1.0.3-amd64.iso",
+    "label": "Kali Linux 1.0.3 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2013, stability improvements"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "1.0.4",
+    "codename": "Moto",
+    "filename": "kali-linux-1.0.4-amd64.iso",
+    "label": "Kali Linux 1.0.4 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released June 2013, updated tools and kernel"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "1.0.5",
+    "codename": "Moto",
+    "filename": "kali-linux-1.0.5-amd64.iso",
+    "label": "Kali Linux 1.0.5 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released September 2013, final 1.0 series release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "1.0.6",
+    "codename": "Moto",
+    "filename": "kali-linux-1.0.6-amd64.iso",
+    "label": "Kali Linux 1.0.6 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released January 2014, extended 1.0 maintenance release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "1.0.7",
+    "codename": "Moto",
+    "filename": "kali-linux-1.0.7-amd64.iso",
+    "label": "Kali Linux 1.0.7 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2014, security updates and bug fixes"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "1.0.8",
+    "codename": "Moto",
+    "filename": "kali-linux-1.0.8-amd64.iso",
+    "label": "Kali Linux 1.0.8 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released July 2014, continued maintenance of 1.0 branch"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "1.0.9",
+    "codename": "Moto",
+    "filename": "kali-linux-1.0.9-amd64.iso",
+    "label": "Kali Linux 1.0.9 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released September 2014, final point release for 1.0"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "1.1.0",
+    "codename": "Moto",
+    "filename": "kali-linux-1.1.0-amd64.iso",
+    "label": "Kali Linux 1.1.0 'Moto'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released February 2015, updated kernel and tools"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2.0",
+    "codename": "Sana",
+    "filename": "kali-linux-2.0-amd64.iso",
+    "label": "Kali Linux 2.0 'Sana'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released August 2015, major release with updated Debian base"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2016.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2016.1-amd64.iso",
+    "label": "Kali Linux 2016.1 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released January 2016, transition to rolling release model"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2016.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2016.2-amd64.iso",
+    "label": "Kali Linux 2016.2 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released September 2016, rolling release snapshot"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2017.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2017.1-amd64.iso",
+    "label": "Kali Linux 2017.1 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2017, rolling release with updated tools"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2017.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2017.2-amd64.iso",
+    "label": "Kali Linux 2017.2 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released September 2017, mid-year rolling snapshot"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2017.3",
+    "codename": "Rolling",
+    "filename": "kali-linux-2017.3-amd64.iso",
+    "label": "Kali Linux 2017.3 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2017, end of year rolling release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2018.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2018.1-amd64.iso",
+    "label": "Kali Linux 2018.1 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released February 2018, first 2018 rolling release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2018.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2018.2-amd64.iso",
+    "label": "Kali Linux 2018.2 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2018, spring rolling snapshot"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2018.3",
+    "codename": "Rolling",
+    "filename": "kali-linux-2018.3-amd64.iso",
+    "label": "Kali Linux 2018.3 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released August 2018, summer rolling release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2018.4",
+    "codename": "Rolling",
+    "filename": "kali-linux-2018.4-amd64.iso",
+    "label": "Kali Linux 2018.4 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2018, final 2018 rolling release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2019.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2019.1-amd64.iso",
+    "label": "Kali Linux 2019.1 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released February 2019, first 2019 rolling release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2019.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2019.2-amd64.iso",
+    "label": "Kali Linux 2019.2 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2019, spring rolling snapshot"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2019.3",
+    "codename": "Rolling",
+    "filename": "kali-linux-2019.3-amd64.iso",
+    "label": "Kali Linux 2019.3 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released August 2019, mid-year rolling release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2019.4",
+    "codename": "Rolling",
+    "filename": "kali-linux-2019.4-amd64.iso",
+    "label": "Kali Linux 2019.4 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2019, final 2019 rolling release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2020.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2020.1-installer-amd64.iso",
+    "label": "Kali Linux 2020.1 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released January 2020, non-root by default, Xfce as default desktop"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2020.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2020.2-installer-amd64.iso",
+    "label": "Kali Linux 2020.2 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2020, new tools and PowerShell support"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2020.3",
+    "codename": "Rolling",
+    "filename": "kali-linux-2020.3-installer-amd64.iso",
+    "label": "Kali Linux 2020.3 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released August 2020, ZSH as default shell, new themes"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2020.4",
+    "codename": "Rolling",
+    "filename": "kali-linux-2020.4-installer-amd64.iso",
+    "label": "Kali Linux 2020.4 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released November 2020, Bluetooth arsenal, HiDPI support improvements"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2021.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2021.1-installer-amd64.iso",
+    "label": "Kali Linux 2021.1 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released February 2021, new penetration testing tools"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2021.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2021.2-installer-amd64.iso",
+    "label": "Kali Linux 2021.2 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2021, Kaboxer for isolated tool execution"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2021.3",
+    "codename": "Rolling",
+    "filename": "kali-linux-2021.3-installer-amd64.iso",
+    "label": "Kali Linux 2021.3 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released September 2021, new exploits and vulnerability tools"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2021.4",
+    "codename": "Rolling",
+    "filename": "kali-linux-2021.4-installer-amd64.iso",
+    "label": "Kali Linux 2021.4 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released December 2021, updated toolkit and security improvements"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2022.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2022.1-installer-amd64.iso",
+    "label": "Kali Linux 2022.1 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released February 2022, SSH wide compatibility, new tools"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2022.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2022.2-installer-amd64.iso",
+    "label": "Kali Linux 2022.2 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2022, desktop improvements and new penetration tools"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2022.3",
+    "codename": "Rolling",
+    "filename": "kali-linux-2022.3-installer-amd64.iso",
+    "label": "Kali Linux 2022.3 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released August 2022, social engineering toolkit updates"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2022.4",
+    "codename": "Rolling",
+    "filename": "kali-linux-2022.4-installer-amd64.iso",
+    "label": "Kali Linux 2022.4 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released December 2022, year-end rolling release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2023.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2023.1-installer-amd64.iso",
+    "label": "Kali Linux 2023.1 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released March 2023, new year with updated arsenal"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2023.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2023.2-installer-amd64.iso",
+    "label": "Kali Linux 2023.2 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released May 2023, Purple Team tools, internal infrastructure"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2023.3",
+    "codename": "Rolling",
+    "filename": "kali-linux-2023.3-installer-amd64.iso",
+    "label": "Kali Linux 2023.3 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released August 2023, mid-year rolling improvements"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2023.4",
+    "codename": "Rolling",
+    "filename": "kali-linux-2023.4-installer-amd64.iso",
+    "label": "Kali Linux 2023.4 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released December 2023, final 2023 rolling release"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2024.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2024.1-installer-amd64.iso",
+    "label": "Kali Linux 2024.1 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released February 2024, new theme elements and mirror improvements"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2024.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2024.2-installer-amd64.iso",
+    "label": "Kali Linux 2024.2 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released June 2024, GNOME 46, t64 transition, community packages"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2024.3",
+    "codename": "Rolling",
+    "filename": "kali-linux-2024.3-installer-amd64.iso",
+    "label": "Kali Linux 2024.3 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released September 2024, multiple transitions: GCC 14, glibc 2.40, Python 3.12"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2024.4",
+    "codename": "Rolling",
+    "filename": "kali-linux-2024.4-installer-amd64.iso",
+    "label": "Kali Linux 2024.4 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released December 2024, Python 3.12 default, end of i386 support, Linux 6.11 kernel"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2025.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2025.1-installer-amd64.iso",
+    "label": "Kali Linux 2025.1 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released March 2025, first 2025 rolling release with kernel 6.12.0, Xfce 4.20.4"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2025.1a",
+    "codename": "Rolling",
+    "filename": "kali-linux-2025.1a-installer-amd64.iso",
+    "label": "Kali Linux 2025.1a Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released March 2025, bug fix rebuild of 2025.1, new 2025 theme"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2025.1c",
+    "codename": "Rolling",
+    "filename": "kali-linux-2025.1c-installer-amd64.iso",
+    "label": "Kali Linux 2025.1c Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released April 2025, new kali-archive-keyring with Automatic Archive Signing Key"
+  },
+  {
+    "os_family": "Kali Linux",
+    "version": "2025.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2025.2-installer-amd64.iso",
+    "label": "Kali Linux 2025.2 Rolling",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Released June 2025, Kali-Menu refresh, BloodHound CE, NetHunter CARsenal, GNOME 48"
+  },
+  {
+    "os_family": "Kali Linux Live",
+    "version": "2024.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2024.1-live-amd64.iso",
+    "label": "Kali Linux 2024.1 Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live USB/DVD version for forensic mode and testing"
+  },
+  {
+    "os_family": "Kali Linux Live",
+    "version": "2024.2",
+    "codename": "Rolling",
+    "filename": "kali-linux-2024.2-live-amd64.iso",
+    "label": "Kali Linux 2024.2 Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Live version with GNOME 46 and updated tools"
+  },
+  {
+    "os_family": "Kali Linux Live",
+    "version": "2025.1",
+    "codename": "Rolling",
+    "filename": "kali-linux-2025.1-live-amd64.iso",
+    "label": "Kali Linux 2025.1 Live",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Latest live version for penetration testing without installation"
+  },
+  {
+    "os_family": "Kali Linux NetHunter",
+    "version": "2024.2",
+    "codename": "NetHunter",
+    "filename": "kali-nethunter-2024.2-generic-arm64.zip",
+    "label": "Kali NetHunter 2024.2",
+    "uefi_params": "N/A",
+    "bios_params": "N/A",
+    "notes": "Mobile penetration testing platform for Android devices"
+  },
+  {
+    "os_family": "Kali Linux NetHunter",
+    "version": "2025.1",
+    "codename": "NetHunter",
+    "filename": "kali-nethunter-2025.1-generic-arm64.zip",
+    "label": "Kali NetHunter 2025.1",
+    "uefi_params": "N/A",
+    "bios_params": "N/A",
+    "notes": "Updated NetHunter with smartwatch Wi-Fi injection support"
+  },
+  {
+    "os_family": "Kali Linux NetHunter",
+    "version": "2025.2",
+    "codename": "NetHunter",
+    "filename": "kali-nethunter-2025.2-generic-arm64.zip",
+    "label": "Kali NetHunter 2025.2",
+    "uefi_params": "N/A",
+    "bios_params": "N/A",
+    "notes": "Latest NetHunter with CARsenal car hacking tool set, TicWatch Pro 3 support"
+  }
+]

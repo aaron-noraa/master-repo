@@ -1,0 +1,202 @@
+[
+  {
+    "os_family": "EndeavourOS",
+    "version": "2019.07.15",
+    "codename": "Initial Release",
+    "filename": "endeavouros-2019.07.15-x86_64.iso",
+    "label": "EndeavourOS Initial Release",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "First official release, July 15, 2019 - Community-driven Arch-based distribution"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "2019.08.17",
+    "codename": "August Update",
+    "filename": "endeavouros-2019.08.17-x86_64.iso",
+    "label": "EndeavourOS August 2019",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Latest kernel, bug fixes, XFCE 4.14 settings update"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "2020.03.03",
+    "codename": "March Release",
+    "filename": "endeavouros-2020.03.03-x86_64.iso",
+    "label": "EndeavourOS March 2020",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Spring 2020 release with updated packages and improvements"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "2020.07.15",
+    "codename": "Anniversary",
+    "filename": "endeavouros-2020.07.15-x86_64.iso",
+    "label": "EndeavourOS First Anniversary",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "First anniversary release, July 15, 2020"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "2020.09.20",
+    "codename": "September Release",
+    "filename": "endeavouros-2020.09.20-x86_64.iso",
+    "label": "EndeavourOS September 2020",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Autumn 2020 release with kernel updates and desktop environment improvements"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "2021.04.17",
+    "codename": "April Release",
+    "filename": "endeavouros-2021.04.17-x86_64.iso",
+    "label": "EndeavourOS April 2021",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Spring 2021 release with updated installer and package selection"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "2021.08.27",
+    "codename": "August Release",
+    "filename": "endeavouros-2021.08.27-x86_64.iso",
+    "label": "EndeavourOS August 2021",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Late summer release before transition to codename system"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "21.11",
+    "codename": "Atlantis",
+    "filename": "EndeavourOS_Atlantis-21.11.iso",
+    "label": "EndeavourOS 'Atlantis'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "First release with Space Shuttle codename system, Linux 5.15 LTS, PipeWire support"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "22.1",
+    "codename": "Apollo",
+    "filename": "EndeavourOS_Apollo-22_1.iso",
+    "label": "EndeavourOS 'Apollo'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Apollo mission themed release with updated desktop environments"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "22.6",
+    "codename": "Artemis",
+    "filename": "EndeavourOS_Artemis-22_6.iso",
+    "label": "EndeavourOS 'Artemis'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Artemis themed release with enhanced ARM support preparation"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "22.7",
+    "codename": "Artemis Neo",
+    "filename": "EndeavourOS_Artemis_neo_22_7.iso",
+    "label": "EndeavourOS 'Artemis Neo'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Updated Artemis release with bug fixes and improvements"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "22.12",
+    "codename": "Cassini",
+    "filename": "EndeavourOS_Cassini_22_12.iso",
+    "label": "EndeavourOS 'Cassini'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "December 2022 release named after the Cassini space mission"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "22.12.1",
+    "codename": "Cassini Neo",
+    "filename": "EndeavourOS_Cassini_neo_22_12.iso",
+    "label": "EndeavourOS 'Cassini Neo'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Updated Cassini release with refinements and bug fixes"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "23.3",
+    "codename": "Cassini Nova",
+    "filename": "EndeavourOS_Cassini_Nova-03-2023.iso",
+    "label": "EndeavourOS 'Cassini Nova'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "March 2023 release, major update to Cassini series"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "23.3.1",
+    "codename": "Cassini Nova R1",
+    "filename": "EndeavourOS_Cassini_Nova-03-2023_R1.iso",
+    "label": "EndeavourOS 'Cassini Nova' R1",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "First rebuild of Cassini Nova, March 27, 2023"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "23.3.2",
+    "codename": "Cassini Nova R2",
+    "filename": "EndeavourOS_Cassini_Nova-03-2023_R2.iso",
+    "label": "EndeavourOS 'Cassini Nova' R2",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Second rebuild of Cassini Nova, May 25, 2023"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "23.3.3",
+    "codename": "Cassini Nova R3",
+    "filename": "EndeavourOS_Cassini_Nova-03-2023_R3.iso",
+    "label": "EndeavourOS 'Cassini Nova' R3",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Third rebuild of Cassini Nova, August 5, 2023"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "24.4",
+    "codename": "Gemini",
+    "filename": "EndeavourOS_Gemini-24.04.iso",
+    "label": "EndeavourOS 'Gemini'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "April 2024 release named after NASA's Gemini program"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "24.10",
+    "codename": "Endeavour",
+    "filename": "EndeavourOS_Endeavour-24.10.iso",
+    "label": "EndeavourOS 'Endeavour'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Fifth anniversary release, October 2024, named after Space Shuttle Endeavour with Plasma 6.1, ARM support return"
+  },
+  {
+    "os_family": "EndeavourOS",
+    "version": "25.3",
+    "codename": "Mercury Neo",
+    "filename": "EndeavourOS_Mercury_Neo-25.03.iso",
+    "label": "EndeavourOS 'Mercury Neo'",
+    "uefi_params": "PLACEHOLDER_UEFI",
+    "bios_params": "PLACEHOLDER_BIOS",
+    "notes": "Latest release as of March 2025, named after NASA's Mercury program"
+  }
+]

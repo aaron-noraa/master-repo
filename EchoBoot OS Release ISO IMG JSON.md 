@@ -1,0 +1,22 @@
+You're helping generate EchoBoot JSON entries for bootable OS images. Each JSON entry must represent either a `.iso` or `.img` release, as long as it's publicly available.
+
+✅ Public `.iso` and `.img` files are both accepted.
+❌ Do not include `.torrent`, `.zsync`, `.sig`, `.sha256`, or download-only `.img.xz` files (unless extracted).
+
+Each object should match one file only. Use the filename including `.iso` or `.img` exactly.
+
+Example:
+{
+  "label": "Alpine Linux 3.19 Minimal (img)",
+  "version": "3.19.0",
+  "codename": "unknown",
+  "flavor": "Minimal",
+  "filename": "alpine-standard-3.19.0-x86_64.img",
+  "match_hints": [
+    "alpine-3.19",
+    "standard",
+    "minimal",
+    "x86_64"
+  ],
+  "boot_params": "console=ttyS0 quiet"
+}

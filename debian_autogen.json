@@ -1,0 +1,299 @@
+[
+  {
+    "label": "Debian Debian Live Testing Amd64 Gnome",
+    "version": "Unknown",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-testing-amd64-gnome.iso",
+    "match_hints": [
+      "debian-live-testing-amd64-gnome.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live Testing Amd64 Kde",
+    "version": "Unknown",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-testing-amd64-kde.iso",
+    "match_hints": [
+      "debian-live-testing-amd64-kde.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live Testing Amd64 Cinnamon",
+    "version": "Unknown",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-testing-amd64-cinnamon.iso",
+    "match_hints": [
+      "debian-live-testing-amd64-cinnamon.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live Testing Amd64 Lxde",
+    "version": "Unknown",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-testing-amd64-lxde.iso",
+    "match_hints": [
+      "debian-live-testing-amd64-lxde.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live Testing Amd64 Lxqt",
+    "version": "Unknown",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-testing-amd64-lxqt.iso",
+    "match_hints": [
+      "debian-live-testing-amd64-lxqt.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live Testing Amd64 Mate",
+    "version": "Unknown",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-testing-amd64-mate.iso",
+    "match_hints": [
+      "debian-live-testing-amd64-mate.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live Testing Amd64 Xfce",
+    "version": "Unknown",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-testing-amd64-xfce.iso",
+    "match_hints": [
+      "debian-live-testing-amd64-xfce.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live Testing Amd64 Standard",
+    "version": "Unknown",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-testing-amd64-standard.iso",
+    "match_hints": [
+      "debian-live-testing-amd64-standard.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live Testing Amd64 Debian Junior",
+    "version": "Unknown",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-testing-amd64-debian-junior.iso",
+    "match_hints": [
+      "debian-live-testing-amd64-debian-junior.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Cinnamon",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-cinnamon.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-cinnamon.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Cinnamon",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-cinnamon.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-cinnamon.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Debian Junior",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-debian-junior.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-debian-junior.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Debian Junior",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-debian-junior.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-debian-junior.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Gnome",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-gnome.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-gnome.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Gnome",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-gnome.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-gnome.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Kde",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-kde.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-kde.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Kde",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-kde.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-kde.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Lxde",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-lxde.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-lxde.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Lxde",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-lxde.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-lxde.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Lxqt",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-lxqt.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-lxqt.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Lxqt",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-lxqt.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-lxqt.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Mate",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-mate.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-mate.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Mate",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-mate.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-mate.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Standard",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-standard.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-standard.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Standard",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-standard.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-standard.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Xfce",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-xfce.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-xfce.iso"
+    ],
+    "boot_params": ""
+  },
+  {
+    "label": "Debian Debian Live 13.0.0 Amd64 Xfce",
+    "version": "13.0",
+    "codename": "",
+    "flavor": "LIVE",
+    "filename": "debian-live-13.0.0-amd64-xfce.iso",
+    "match_hints": [
+      "debian-live-13.0.0-amd64-xfce.iso"
+    ],
+    "boot_params": ""
+  }
+]
